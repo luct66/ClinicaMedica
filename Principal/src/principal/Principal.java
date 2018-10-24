@@ -11,4 +11,5 @@ public class Principal {
 
     }
     //Tal vez aca se inicie la interfaz grafica del porgrama
+    //Que va a llamar las ventanas y graficas del programa
 }
